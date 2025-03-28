@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759189778167",
+    "project_id": "appujat-39284",
+    "storage_bucket": "appujat-39284.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759189778167:android:843a1f637e8c901df0edf2",
+        "android_client_info": {
+          "package_name": "com.example.app_ujat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1KtV-1XTLirhy1HZPM2Dt9wl9qt6e0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
